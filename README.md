@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I am very interested in video games and just exploring tech**
 
+- 👨‍💻 I'm Solving Data Structures and algorithms problems regularly.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ssaaaaddshaikh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
