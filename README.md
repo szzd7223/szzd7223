@@ -8,21 +8,25 @@
 - I'm Solving Data Structures and algorithms problems regularly.
 
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
-  <!-- LinkedIn (white) -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ssaaaaddshaikh/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="30" width="30" />
+    LinkedIn
   </a>
-  &nbsp;&nbsp;
+  <br>
 
-  <!-- X / Twitter (white) -->
+  <!-- X / Twitter -->
   <a href="https://x.com/ssaaaadd_sh" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="30" width="30" />
+    X
   </a>
-  &nbsp;&nbsp;
+  <br>
 
-  <!-- Portfolio (white globe) -->
-  <a href="https://ssaaaadd-portfolio.vercel.app" target="_blank">
-    <img src="https://cdn.simpleicons.org/internetcomputer/ffffff" height="30" width="30" />
+  <!-- Portfolio -->
+  <a href="https://your-portfolio-url.com" target="_blank">
+    Portfolio
   </a>
+  <br>
+
 </p>
