@@ -9,5 +9,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ssaaaaddshaikh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://x.com/ssaaaadd_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ssaaaaddshaikh/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/ssaaaadd_sh" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ssaaaadd-portfolio.vercel.app" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web/web-original.svg" height="30" width="30" />
+  </a>
+</p>
