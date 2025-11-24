@@ -9,15 +9,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- LinkedIn (white) -->
   <a href="https://www.linkedin.com/in/ssaaaaddshaikh/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="30" width="30" />
   </a>
   &nbsp;&nbsp;
+
+  <!-- X / Twitter (white) -->
   <a href="https://x.com/ssaaaadd_sh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" width="30" />
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="30" width="30" />
   </a>
   &nbsp;&nbsp;
+
+  <!-- Portfolio (white globe) -->
   <a href="https://ssaaaadd-portfolio.vercel.app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web/web-original.svg" height="30" width="30" />
+    <img src="https://cdn.simpleicons.org/internetcomputer/ffffff" height="30" width="30" />
   </a>
 </p>
