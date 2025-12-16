@@ -77,10 +77,10 @@ A software engineer who enjoys building reliable, well structured systems and le
 ```
 Consistency > intensity
 ```
-# Github
+### Github
 ![GitHub Contribution Heatmap](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=szzd7223&theme=github_dark)
 
-# Leetcode
+### Leetcode
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/ssaaaadd?ext=heatmap)
 
 
