@@ -72,12 +72,17 @@ A software engineer who enjoys building reliable, well structured systems and le
 
 ---
 
-## Leetcode Activity
+## Coding Activity
 
 ```
 Consistency > intensity
 ```
-![LeetCode Stats](https://leetcard.jacoblin.cool/ssaaaadd?theme=light&font=Karma)
+# Github
+![GitHub Contribution Heatmap](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=szzd7223&theme=github_dark)
+
+# Leetcode
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/ssaaaadd?ext=heatmap)
+
 
 ---
 
@@ -93,7 +98,7 @@ Consistency > intensity
 
 > Build things. Break them. Fix them.
 
-I’m locked in and **getting better every week**, understanding systems deeply, and building software that actually works.
+I’m locked in on **getting better every week**, understanding systems deeply, and building software that actually works.
 
 ---
 
